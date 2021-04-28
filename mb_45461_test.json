@@ -1,0 +1,12 @@
+{
+    "comment" : "Rebalance test-case, rebalance-in a new indexer node",
+    "resize":false,
+    "plan": "./plan_mb_45461_1.json",
+    "addNode":0,
+    "deleteNode": 0,
+    "ejectOnly":false,
+    "replicaRepair":false,
+    "threshold": 0.01,
+    "timeout":300,
+    "detail": true
+}
